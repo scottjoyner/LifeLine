@@ -1,2 +1,2 @@
 # LifeLine
-This is an open source project that aims to produce a wrapper for all the commands you would need to develop. 
+This is a c project that makes my cutstom terminl with a few key improvements to my workflow feel free to copy the files or make your own!
